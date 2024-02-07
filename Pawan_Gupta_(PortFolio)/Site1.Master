@@ -1,0 +1,121 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Walidkadri_Portfolio.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Walid Kadri</title>
+    <link href="Bootstrap/CSS/bootstrap.min.css" rel="stylesheet" />
+    <link href="StyleSheet/style.css" rel="stylesheet" />
+    <link href="Fontawesome/css/all.css" rel="stylesheet" />
+
+     <link rel="icon" href="Images/Walidk.png" type="image/png" sizes="96x96">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+       
+    </asp:ContentPlaceHolder>
+
+    <style>
+        .phone-link{
+            color:black;
+            text-decoration: none !important;
+            display: inline-block;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .phone-link:hover{
+            transform: scale(1.2);
+        }
+
+        .social-link{
+            color:black;
+            text-decoration:none !important;
+            display: inline-block;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .social-link:hover{
+            transform: scale(1.4);
+        }
+    </style>
+    
+</head>
+<body>
+    <script src="Bootstrap/JS/bootstrap.bundle.min.js"></script>
+    <form id="form1" runat="server">
+<%--            <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>--%>
+        <div>
+            <nav class="navbar navbar-expand-lg py-4 px-5" style="background-color:white">
+                <a class="navbar-brand" href="AboutMe.aspx" style="color:black;">
+                    <p><b><big>Walid Kadri</big></b> / Dotnet Developer</p>
+
+                </a>
+                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+                    </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                    <ul class="navbar-nav me-auto ">
+
+                        </ul>
+                    
+                    <ul class="navbar-nav px-5">
+                        <li class="nav-item active px-4">
+                            <asp:LinkButton class="nav-link" ID="aboutme" runat="server" ForeColor="Black" OnClick="aboutme_Click">ABOUT ME</asp:LinkButton>
+                        </li>
+                        <li class="nav-item active px-4">
+                            <asp:LinkButton class="nav-link" ID="resume" runat="server" ForeColor="Black" OnClick="resume_Click" >ACADEMICS</asp:LinkButton>
+                        </li>
+                         <li class="nav-item active px-4">
+                             <asp:LinkButton class="nav-link" ID="SkillSet" runat="server" ForeColor="Black" OnClick="SkillSet_Click" >SKILLSET</asp:LinkButton>
+                         </li>
+                        <li class="nav-item active px-4">
+                            <asp:LinkButton class="nav-link" ID="projects" runat="server" ForeColor="Black" OnClick="projects_Click">PROJECTS</asp:LinkButton>
+                        </li>
+                        <li class="nav-item active px-4">
+                            <asp:LinkButton class="nav-link" ID="contactme" runat="server" ForeColor="Black" OnClick="contactme_Click">CONTACT</asp:LinkButton>  
+                        </li>
+                        
+                    </ul>
+
+                </div>
+
+            </nav>   
+
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <footer class="container-fluid py-4 px-5" style="background-color:white;" >
+    <div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-6 my-2">
+          <p>©  2023 - by Walid Kadri</p>
+        </div>
+          <div class="col-2 text-center">
+          <h6>Call</h6>
+              <a href="tel:+919892244728"  class="phone-link">+(91) 9892244728</a>
+        </div>
+          <div class="col-2 text-center">
+              <h6>Write</h6>
+              <a href="mailto:walidkadri1177@gmail.com" class="phone-link">walidkadri1177@gmail.com</a>
+        </div>
+          <div class="col-2 text-center">
+              <h6>Follow</h6>
+              <a style="color: black;" class="p-1 social-link" href="https://www.instagram.com/walidkadri_/"><i class="fab fa-2x fa-instagram"></i></a>
+              <a style="color: black;" class="p-1 social-link" href="https://twitter.com/"><i class="fab fa-2x fa-twitter"></i></a>
+              <a style="color: black;" class="p-1 social-link" href="https://www.linkedin.com/in/walid-kadri-210367259/"><i class="fab fa-2x fa-linkedin"></i></a>
+              <a style="color: black;" class="p-1 social-link" href="https://github.com/walidk317"><i class="fab fa-2x fa-github"></i></a>
+            
+            
+        </div>
+      </div>
+    </div>
+        </div>
+  </footer>
+
+        </div>
+    </form>
+</body>
+</html>

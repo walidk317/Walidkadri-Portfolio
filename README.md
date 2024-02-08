@@ -30,8 +30,14 @@ Hey there! I'm Walid Kadri, a passionate developer with a love for creating web 
 ## Look Of Portfolio
 
 
-
+--> HOMEPGE
 ![Project Screenshot](portfolio1.png)
+
+--> PROJECTS
+![Project Screenshot](portfolio2.png)
+
+--> CONTACT PAGE
+![Project Screenshot](portfolio3.png)
 
 ...
 

@@ -45,7 +45,21 @@ To get a copy of this project up and running on your local machine, follow these
 
 ## How to Use
 
-Provide instructions on how users can navigate and interact with your portfolio. Include any necessary setup or configuration steps.
+To set up and run this .NET project in Visual Studio 2022 with a Microsoft SQL Server database, follow these steps:
+
+### Prerequisites
+
+1. **Install Visual Studio 2022:**
+   Download and install [Visual Studio 2022](https://visualstudio.microsoft.com/) on your machine.
+
+2. **Install SQL Server:**
+   If you don't have Microsoft SQL Server installed, download and install [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
+
+### Clone the Repository
+
+```bash``
+git clone https://github.com/your-username/your-portfolio.git
+cd your-portfolio
 
 ## Contributing
 

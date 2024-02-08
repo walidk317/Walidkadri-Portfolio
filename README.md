@@ -18,25 +18,18 @@ Hey there! I'm Walid Kadri, a passionate developer with a love for creating web 
 
 ## Technologies Used
 
-- **.NET Framework:** Powerful framework for building Windows applications and more.
-- **HTML:** The standard markup language for creating web pages.
-- **CSS:** Style your web applications and make them visually appealing.
-- **Bootstrap:** Front-end framework for designing responsive and modern web pages.
-- **C#:** Versatile programming language used for building Windows applications and web development.
-- **JavaScript:** Dynamic scripting language for enhancing interactivity in web applications.
-- **MS SQL:** Relational database management system for storing and retrieving data efficiently.
+- **.NET Framework:** ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+- **HTML:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+- **CSS:** ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+- **Bootstrap:** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+- **C#:** ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- **JavaScript:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **MS SQL:** ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
 
 ## Projects
 
-### Project 1: [Project Name](link-to-project)
 
-Brief description of the project and its significance. Highlight key features and technologies used.
-
-![Project Screenshot](path-to-screenshot.png)
-
-### Project 2: [Project Name](link-to-project)
-
-Brief description of the project and its significance. Highlight key features and technologies used.
 
 ![Project Screenshot](path-to-screenshot.png)
 

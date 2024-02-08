@@ -31,7 +31,7 @@ Hey there! I'm Walid Kadri, a passionate developer with a love for creating web 
 
 
 
-![Project Screenshot](path-to-screenshot.png)
+![Project Screenshot](portfolio1.png)
 
 ...
 

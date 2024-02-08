@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walidkadri Portfolio", "Pawan_Gupta_(PortFolio)\Walidkadri Portfolio.csproj", "{EF51FE61-1731-4C1C-BACD-7DEE1765963C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walidkadri Portfolio", "Walidkadri_Portfolio\Walidkadri Portfolio.csproj", "{EF51FE61-1731-4C1C-BACD-7DEE1765963C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

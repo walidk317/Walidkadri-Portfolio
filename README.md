@@ -73,7 +73,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [GNU General Public License (GPL)](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 

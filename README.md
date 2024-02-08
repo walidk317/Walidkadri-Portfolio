@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! 🚀 This project showcases my skil
 
 - [About Me](#about-me)
 - [Technologies Used](#technologies-used)
-- [Projects](#projects)
+- [Look Of Portfolio](#Look-Of-Portfolio)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
@@ -27,7 +27,7 @@ Hey there! I'm Walid Kadri, a passionate developer with a love for creating web 
 - **MS SQL:** ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 
-## Projects
+## Look Of Portfolio
 
 
 

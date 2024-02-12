@@ -64,8 +64,8 @@ To set up and run this .NET project in Visual Studio 2022 with a Microsoft SQL S
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/walidk317/Walidkadri-Portfolio.git
+cd Walidkadri-Portfolio
 
 ## Contributing
 

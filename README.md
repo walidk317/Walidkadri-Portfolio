@@ -45,7 +45,7 @@ Hey there! I'm Walid Kadri, a passionate developer with a love for creating web 
 
 To get a copy of this project up and running on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone the repository: `git clone https://github.com/Walidk317/Walidkadri-Portfolio.git`
 2. Open the project in your preferred IDE.
 3. Build and run the application.
 
@@ -64,7 +64,7 @@ To set up and run this .NET project in Visual Studio 2022 with a Microsoft SQL S
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/walidk317/Walidkadri-Portfolio.git
+git clone https://github.com/Walidk317/Walidkadri-Portfolio.git
 cd Walidkadri-Portfolio
 
 ## Contributing
